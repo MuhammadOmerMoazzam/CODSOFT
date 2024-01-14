@@ -16,7 +16,7 @@ This is a simple calculator program that allows you to perform basic arithmetic 
 
 **Task3: To-Do-List**
 
-This program enables you to manage tasks on a to-do list. You can add a task, delete specific tasks, and also clear the entire list.               (*NOTE*: This project does not currently incorporate any database functionality, I am looking forward to learning how to work with databases and implementing them into this project in the near future.)
+This program enables you to manage tasks on a to-do list. You can add a task, delete specific tasks, and also clear the entire list.           (*NOTE*: This project does not currently incorporate any database functionality, I am looking forward to learning how to work with databases and implementing them into this project in the near future.)
 
 
 
