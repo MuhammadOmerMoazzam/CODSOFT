@@ -1,7 +1,8 @@
 "# CODSOFT"
+
 CodSoft-Internship (Python Programming)
 
-Completion criteria: For the Python Programming internship, you will need to complete at least 3 tasks for the successful completion of the intership.
+**Completion criteria:** For the Python Programming internship, you will need to complete at least 3 tasks for the successful completion of the intership.
 
 **NOTE:** To avoid errors related to the 'icon.ico' file not being found, ensure that the 'icon.ico' file (task_icon file) is placed in the same folder as the main program..
 
