@@ -1,5 +1,4 @@
 # CODSOFT
-
 **CodSoft-Internship (Python Programming)**
 
 ### Completion criteria:
@@ -13,10 +12,8 @@ To avoid errors related to the 'icon.ico' file not being found, ensure that the 
 In this program, you can generate a random password by specifying its length. Additionally, you have the ability to copy the generated password to your clipboard for easy pasting wherever you need it.
 
 ## Task 2: Calculator
-
 This is a simple calculator program that allows you to perform basic arithmetic operations, including addition, subtraction, multiplication, division, and modulus (i.e., remainder).
 
 ## Task3: To-Do-List
-
 This program enables you to manage tasks on a to-do list. You can add a task, delete specific tasks, and also clear the entire list. <br>
 (*NOTE*: This project does not currently incorporate any database functionality, I am looking forward to learning how to work with databases and implementing them into this project in the near future.)
